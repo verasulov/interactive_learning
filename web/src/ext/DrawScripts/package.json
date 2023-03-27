@@ -1,0 +1,6 @@
+{
+  "name": "draw_scripts",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./DrawScripts.js"
+}

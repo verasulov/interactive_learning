@@ -1,0 +1,6 @@
+{
+  "name": "navigation_bar",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./NavigationBar.js"
+}

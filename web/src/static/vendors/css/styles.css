@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', 'PT Sans', Helvetica, Arial, sans-serif;
+  line-height: normal;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}

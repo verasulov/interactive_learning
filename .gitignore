@@ -1,0 +1,13 @@
+venv
+.idea/
+.DS_Store
+__pycache__
+__init__.pyc
+node_modules
+configs/local.py
+web/src/static/vendors/renders/
+web/src/static/vendors/*main.dll.js
+web/src/package-lock.json
+*.pyc
+beaker_middleware_data
+*.gz

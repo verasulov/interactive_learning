@@ -1,0 +1,43 @@
+{
+  "name": "RentApp",
+  "short_name": "RA",
+  "background_color": "red",
+  "categories": ["business", "finance"],
+  "description": "Оч крутое первое приложение",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "ru-RU",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/static/icon/128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/static/icon/152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/static/icon/144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/static/icon/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/static/icon/256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/static/icon/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
